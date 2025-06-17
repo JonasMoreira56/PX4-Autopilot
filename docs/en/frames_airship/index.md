@@ -1,4 +1,4 @@
-# Airships
+# Airships Control
 
 <LinkedBadge type="warning" text="Experimental" url="../airframes/#experimental-vehicles"/>
 
